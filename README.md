@@ -1,6 +1,7 @@
 <!DOCTYPE hTML>
 <html>
 <head>
+<link rel="stylesheet" type="text/css href="/Module2/css.css">
 <meta charset="utf-8">
 <title>Module2-assigment</title>
 <style>
